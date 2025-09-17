@@ -15,7 +15,7 @@
 
 ### 🌐 Social
 - 📸 Instagram : [@Gh0sT4n](https://instagram.com/)  
-- 💬 Discord : `yourdiscord#0000`
+- 💬 Discord : #?#
 - ▶️ Youtube : [Gh0sT4n](https://www.youtube.com/@DarSk3)
 
 ---
@@ -28,12 +28,12 @@
   </a>
   &nbsp;&nbsp;
   <!-- Buy Me a Coffee -->
-  <a href="https://www.buymeacoffee.com/your_bmac" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
   </a>
   &nbsp;&nbsp;
   <!-- Patreon -->
-  <a href="https://www.patreon.com/your_patreon" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
   </a>
 </p>
