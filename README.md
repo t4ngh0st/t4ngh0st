@@ -28,14 +28,10 @@
   </a>
   &nbsp;&nbsp;
   <!-- Buy Me a Coffee -->
-  <a href="#" target="_blank">
+  <a href="https://buymeacoffee.com/gh0st4n" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
   </a>
   &nbsp;&nbsp;
-  <!-- Patreon -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
-  </a>
 </p>
 
 <p align="center">
