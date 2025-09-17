@@ -15,7 +15,7 @@
 
 ### 🌐 Social
 - 📸 Instagram : [@Gh0sT4n](https://instagram.com/)  
-- 💬 Discord : #?#
+- 💬 Discord : -
 - ▶️ Youtube : [Gh0sT4n](https://www.youtube.com/@DarSk3)
 
 ---
