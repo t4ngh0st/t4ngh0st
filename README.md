@@ -20,7 +20,12 @@
 - 🔗 Portofolio : [Portofolio Gh0sT4n](https://t4ngh0st.github.io/tanweb/)
 
 ---
+### 🛠️ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="langs" height="160"/>
+</p>
 
+---
 ### ☕ Support Me & Other
 <p align="center">
   <!-- Ko-fi -->
