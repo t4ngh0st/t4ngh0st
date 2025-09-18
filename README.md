@@ -14,8 +14,8 @@
 - Zig ⚡  
 
 ### 🌐 Social
-- 📸 Instagram  : [@Gh0sT4n](https://instagram.com/)  
-- 💬 Discord    : -
+- 📸 Instagram  : [@Gh0sT4n](https://instagram.com/#)  
+- 💬 Discord    : [Gh0sT4n](https://discord.gg/9tpPAQnR)
 - ▶️ Youtube    : [Gh0sT4n](https://www.youtube.com/@DarSk3)
 - 🔗 Portofolio : [Portofolio Gh0sT4n](https://t4ngh0st.github.io/tanweb/)
 
