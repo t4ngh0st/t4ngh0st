@@ -14,7 +14,7 @@
 - Zig ⚡
 
 ### 🗂️ Other
-- Note 📝 : [Note My Project & Source Code](https://github.com/t4ngh0st/projectmd)
+- Note 📝 : [Note My Project & Source Code](https://github.com/t4ngh0st/notemd)
 
 ### 🌐 Social
 - 📸 Instagram         : [@Gh0sT4n](#)  
