@@ -9,19 +9,16 @@
 
 ---
 
-### </> Favorite Languages
-- Python 🐍  
-- Zig ⚡
-
-### 🗂️ Other
-- Note 📝 : [Note My Project & Source Code](https://github.com/t4ngh0st/notemd)
-
 ### 🌐 Social
 - 📸 Instagram         : [@Gh0sT4n](#)  
 - 💬 Discord Community : [Gh0sT4n](https://discord.gg/9tpPAQnR)
 - 💬 Discord SMK       : [FRIEND-Server](#)
 - ▶️ Youtube           : [Gh0sT4n](https://www.youtube.com/@DarSk3)
 - 🔗 Portofolio        : [Portofolio Gh0sT4n](https://t4ngh0st.github.io/tanweb/)
+
+
+### 🗂️ Other
+- Note 📝 : [Note My Project & Source Code](https://github.com/t4ngh0st/notemd)
 
 ---
 
