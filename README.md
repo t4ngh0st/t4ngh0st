@@ -10,7 +10,7 @@
 ---
 
 ### 🌐 Social
-- 📸 Instagram         : [@Gh0sT4n](#)  
+- 📸 Instagram         : [@Gh0sT4n](https://www.instagram.com/zig_vr0g/)  
 - 💬 Discord Community : [Gh0sT4n](https://discord.gg/9tpPAQnR)
 - 💬 Discord SMK       : [FRIEND-Server](#)
 - ▶️ Youtube           : [Gh0sT4n](https://www.youtube.com/@DarSk3)
